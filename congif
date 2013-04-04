@@ -1,0 +1,4 @@
+Host eniac
+	HostName eniac.seas.upenn.edu
+	User eisenn
+	IdentityFile id_rsa.pub
